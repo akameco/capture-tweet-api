@@ -1,0 +1,22 @@
+{
+  "name": "capture-tweet-api",
+  "version": "0.0.0",
+  "description": "capture tweet api",
+  "license": "MIT",
+  "repository": "akameco/capture-tweet-api",
+  "author": {
+    "name": "akameco",
+    "email": "akameco.t@gmail.com",
+    "url": "akameco.github.io"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "capture-tweet": "^0.1.0",
+    "express": "^4.15.4"
+  }
+}
